@@ -63,7 +63,8 @@ plt.legend(['Regression Line','Data points'])
 
 
 # Output : 
-![Uploading h1.png…]()
+
+
 
 
 # Result:
